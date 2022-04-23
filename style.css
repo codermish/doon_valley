@@ -1,0 +1,56 @@
+img{
+    height: 400px;
+    width: 1108px;
+    border: 1px solid;
+    border-color:black;
+ 
+}
+
+.level1{
+
+    background-color: bisque;
+   font-family: fantasy;
+    display: grid;
+    grid-template-columns: 1fr 1  1fr;
+    grid-template-rows: 70px 400px 1fr 150px ;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid;
+    border-color: black;
+    
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.level1 div{
+
+    padding: 10px;
+    border: 1px solid;
+    border-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: wheat;
+
+}
+
+.submit{
+    margin-top: 10px;
+    margin-bottom: 10px;
+ width: 200px;
+ height: 50px;
+background-color: green;
+ box-sizing: border-box;
+
+ color: black;
+ font-size: large;
+ text-align: center;
+
+}
+.header{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 28px;
+
+
+}
